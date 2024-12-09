@@ -1,0 +1,1 @@
+[30-May-2021 10:43:16 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/u451299909/domains/divinetechs.in/public_html/envato/app/quiz/application/controllers/api/Home.php on line 90
